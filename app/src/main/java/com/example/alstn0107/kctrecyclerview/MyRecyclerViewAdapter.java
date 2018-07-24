@@ -10,7 +10,7 @@ import android.widget.ImageView;
 
 public class MyRecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
-    int images[]={R.drawable.irean1,R.drawable.irean2,R.drawable.irean3,R.drawable.irean1,R.drawable.irean2,R.drawable.irean3,R.drawable.irean3,R.drawable.irean2};
+    int images[]={R.drawable.irean2,R.drawable.irean3,R.drawable.irean1,R.drawable.irean2,R.drawable.irean3,R.drawable.irean3,R.drawable.irean2};
 
     @NonNull
     @Override
